@@ -3,7 +3,10 @@ This post is about my ideal project. To get the big picture, please read the Abs
 
 # Abstract
 
- I believe ["the People factor"](http://alistair.cockburn.us/Agile%2Bdevelopment%253A%2Bthe%2Bpeople%2Bfactor) (Allistair cockburn) is the most important success factor for a given project.
+- I believe ["the People factor"](http://alistair.cockburn.us/Agile%2Bdevelopment%253A%2Bthe%2Bpeople%2Bfactor) (Allistair cockburn) is the most important success factor for a given project.
+- Ethics really matter to me. What I do with computers must be worth doing:)
+- Agile practices - programming techniques & project managements tools - are key ingredients to succeed
+- Technologies. I am an early adopter and I fell in ♥ with ruby 6 years ago. I am still in. 
 
 # People
 
