@@ -20,7 +20,7 @@ Accompagnement & Bootstrap Ruby on Rails + Agile d'un projet d'application web.
 ## Agile
 
 - Formation Product Owner
-    - Rédaction et communication avec les User Stories ( ***3-4**h)
+    - Rédaction et communication avec les User Stories ( **3-4**h)
     - Rédaction des critères d'acceptance d'une Story avec un outil de BDD (cucumber ou autre) ( **4-5**h)
 
 - Formation aux pratiques Agiles
