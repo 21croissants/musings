@@ -14,3 +14,8 @@ g/old/new/
 
 u: cancel
 
+##split
+
+- Ctrl-W s for horizontal splitting
+- Ctrl-W v for vertical splitting
+
