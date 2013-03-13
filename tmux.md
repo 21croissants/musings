@@ -18,4 +18,5 @@ u: cancel
 
 - Ctrl-W s for horizontal splitting
 - Ctrl-W v for vertical splitting
+- Ctrl-w to move btw panes
 
