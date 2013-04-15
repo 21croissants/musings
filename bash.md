@@ -21,3 +21,8 @@
 ## Terminate screen session
 
 	CTRL + D
+	
+# What's causing all the disk activity on OS X?
+	sudo iotop -C 5 12
+	
+	
