@@ -7,3 +7,6 @@ git checkout HEAD -- path/to/file/
 
 ## Cancel a git add, http://stackoverflow.com/a/3688108
 git reset HEAD -- .
+
+## partly cherry-picking, get a patch, but don't commit (-n = --no-commit )
+git cherry-pick -n 
