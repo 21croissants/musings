@@ -10,3 +10,8 @@ git reset HEAD -- .
 
 ## partly cherry-picking, get a patch, but don't commit (-n = --no-commit )
 git cherry-pick -n 
+
+## preview a stash before applying it
+git stash list
+git stash show -p stash@{1}
+git stash apply stash@{1}
