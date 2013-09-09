@@ -1,3 +1,11 @@
+# Add an existing user to a group
+
+```
+sudo usermod -G GroupeName UserName
+```
+
+Then reload the shell or ssh again to see the changes.
+
 # screen
 
 ## Start a session with name "staging"
