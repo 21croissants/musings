@@ -1,3 +1,7 @@
+# monit
+
+Log to /var/log/messages
+
 # Add an existing user to a group
 
 ```
