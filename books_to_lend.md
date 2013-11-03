@@ -1,4 +1,4 @@
-I won't have time to read in the next 3-6 months. Please reply to this [thread](  ) if you're interested.
+I won't have time to read in the next 3-6 months. Please reply to this [thread]( https://groups.google.com/forum/#!topic/rubylyon/3qRC9uE-HXg ) if you're interested.
 
 ## Giving away
 
